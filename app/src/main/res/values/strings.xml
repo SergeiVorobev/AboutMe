@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sergei Vorobev</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio" translatable="false">Hi, my name is Sergei.
+    \n\nI love fish.\n\nI like to watch football.
+    \n\nIn addition I like coding.
+    \n\nBla-bla-bla. That\'s enough info about me. ;-)\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname</string>
+    <string name="done">Done</string>
+</resources>
